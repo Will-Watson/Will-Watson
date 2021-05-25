@@ -1,5 +1,6 @@
 ![Screen Shot 2021-05-24 at 8 31 51 PM](https://user-images.githubusercontent.com/75280353/119423265-e2d8a380-bcd0-11eb-8ea3-1ed1ae0e411a.png)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Will-Watson)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Will-Watson&count_private=true)
+)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Will-Watson/Will-Watson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
