@@ -31,7 +31,7 @@
 
 
 [![Will LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-](www.linkedin.com/in/williampwatson)
+](https://www.linkedin.com/in/williampwatson)
 
 <h1>Stats</h1>
 
