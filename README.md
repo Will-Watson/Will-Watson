@@ -28,11 +28,8 @@
 </ul>
 
 <h1>Contact</h1>
-<ul>
-  <li>
-    [LinkedIn](https://www.linkedin.com/in/williampwatson)
-  </li>
-</ul>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="williampwatson" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/williampwatson?trk=profile-badge">William Watson</a></div>
+              
 
 <h1>Stats</h1>
 
