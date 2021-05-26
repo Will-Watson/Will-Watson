@@ -6,8 +6,6 @@
   
 </div>
 
-![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=github.com/Will-Watson)
-
 <h1>About Me</h1>
 <ul>
   <li>Fullstack Software Developer</li>
