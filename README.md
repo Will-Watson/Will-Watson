@@ -25,8 +25,12 @@
   <li>Socket.io</li>
   <li>PWA</li>
   <li>...to name the majority. Always learning and honing new skills.</li>
-  
 </ul>
+
+<h1>Contact</h1>
+<ul>
+  <li>[LinkedIn](https://www.linkedin.com/in/williampwatson)</li>
+
 <h1>Stats</h1>
 
 <div align="center">
