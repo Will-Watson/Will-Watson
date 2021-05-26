@@ -36,6 +36,11 @@
 [![Will Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](https://williampwatson1991@gmail.com)
 
+[![Will Gmail](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+](https://twitter.com/concatWill)
+
+
+
 
 
 <h1>Stats</h1>
