@@ -3,6 +3,9 @@
 ![Screen Shot 2021-05-26 at 11 11 52 AM](https://user-images.githubusercontent.com/75280353/119685307-3ce18200-be13-11eb-9135-cddf876ecc02.png)
 
 </div>
+
+![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=github.com/Will-Watson)
+
 <h1>About Me</h1>
 <ul>
   <li>Fullstack Software Developer</li>
