@@ -24,7 +24,7 @@
   <li>Express</li>
   <li>Socket.io</li>
   <li>PWA</li>
-  <li>...to name a few. Always learning and honing new skills.</li>
+  <li>...to name the majority. Always learning and honing new skills.</li>
   
 </ul>
 <h1>Stats</h1>
