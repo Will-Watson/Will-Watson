@@ -29,7 +29,10 @@
 
 <h1>Contact</h1>
 <ul>
-  <li>[LinkedIn](https://www.linkedin.com/in/williampwatson)</li>
+  <li>
+    [LinkedIn](https://www.linkedin.com/in/williampwatson)
+  </li>
+</ul>
 
 <h1>Stats</h1>
 
