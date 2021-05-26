@@ -1,6 +1,8 @@
 ![Screen Shot 2021-05-24 at 8 31 51 PM](https://user-images.githubusercontent.com/75280353/119423265-e2d8a380-bcd0-11eb-8ea3-1ed1ae0e411a.png)
-<h1>About Me </h1>
-Hello World
+<h1>About Me</h1>
+- Fullstack Software Developer
+- Lover of films
+- Terrible golfer
 
 <h1>Stats</h1>
 
