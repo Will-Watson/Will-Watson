@@ -9,6 +9,24 @@
   <li>Lover of Film</li>
   <li>Miserable Golfer</li>
 </ul>
+
+<h1>Tech Stack</h1>
+<ul>
+  <li>Javascript</li>
+  <li>Node.js</li>
+  <li>React</li>
+  <li>React Native</li>
+  <li>Redux</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>Material.UI</li>
+  <li>PostgresSQL</li>
+  <li>Express</li>
+  <li>Socket.io</li>
+  <li>PWA</li>
+  <li>...to name a few. Always learning and honing new skills.</li>
+  
+</ul>
 <h1>Stats</h1>
 
 <div align="center">
