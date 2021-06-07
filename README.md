@@ -8,9 +8,9 @@
 
 <h1>About Me</h1>
 <ul>
-  <li>Fullstack Software Developer</li>
-  <li>Lover of Film</li>
-  <li>Miserable Golfer</li>
+  <li>:computer: Fullstack Software Developer</li>
+  <li>:film: Lover of Film</li>
+  <li>:golf: Miserable Golfer</li>
 </ul>
 
 <h1>Tech Stack</h1>
