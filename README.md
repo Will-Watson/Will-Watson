@@ -30,14 +30,14 @@
   <li>...to name the majority. Always learning and honing new skills.</li>
 </ul>
 
-<h1>Contact</h1>
+<h1>Connect</h1>
 
 
 [![Will LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/williampwatson)
 
-[![Will Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-](https://williampwatson1991@gmail.com)
+<!-- [![Will Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+](https://williampwatson1991@gmail.com) -->
 
 [![Will Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ](https://twitter.com/concatWill)
