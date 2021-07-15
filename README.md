@@ -22,11 +22,13 @@
   <li>Redux</li>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>Material.UI</li>
+  <li>Material-UI</li>
   <li>PostgresSQL</li>
   <li>Express</li>
-  <li>Socket.io</li>
-  <li>PWA</li>
+  <li>Socket.IO</li>
+  <li>Bootstrap</li>
+  <li>Progressive Web Applications</li>
+  <li>Single Page Applications</li>
   <li>...to name the majority. Always learning and honing new skills.</li>
 </ul>
 
