@@ -8,7 +8,7 @@
 
 <h1>About Me</h1>
 <ul>
-  <li>:computer: &nbsp; Fullstack Software Developer</li>
+  <li>:computer: &nbsp; Software Engineer</li>
   <li>:cinema: &nbsp; Lover of Film</li>
   <li>:golf: &nbsp; Miserable Golfer</li>
 </ul>
