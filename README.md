@@ -62,6 +62,8 @@
 
   
 </div>
+
+<div align='center'> For business inquiries or job opportunities please email williampwatson1991@gmail.com </div>
 <!--
 **Will-Watson/Will-Watson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
