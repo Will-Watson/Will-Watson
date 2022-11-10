@@ -15,15 +15,19 @@
 
 <h1>Tech Stack</h1>
 <ul>
-  <li>Javascript</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
   <li>Node.js</li>
   <li>React</li>
   <li>React Native</li>
+  <li>React Query</li>
   <li>Redux</li>
   <li>HTML5</li>
   <li>CSS3</li>
+  <li>SCSS</li>
   <li>Material-UI</li>
   <li>PostgresSQL</li>
+  <li>MongoDB</li>
   <li>Express</li>
   <li>Socket.IO</li>
   <li>Bootstrap</li>
