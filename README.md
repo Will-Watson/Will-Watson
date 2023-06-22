@@ -15,6 +15,7 @@
 <ul>
   <li>JavaScript</li>
   <li>TypeScript</li>
+  <li>Java</li>
   <li>Node.js</li>
   <li>React</li>
   <li>React Native</li>
